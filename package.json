@@ -1,0 +1,17 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "The Slash Command Package is our base package for the discord.js v14 bot. Use this package if you are trying to build a Discord bot with the latest version.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "muhamdaily",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
